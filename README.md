@@ -5,7 +5,7 @@
 
 - 🔭 Estoy Trabajando Actualmente en [Blipconnection](https://blipconnection.com/)
 
-- 🌱 Actualmente estoy estudiando **Ingles, Typescript y Next.js**
+- 🌱 Actualmente estoy estudiando **Ingles, AWS y Tree js**
 
 - 👯 Me gustaria colaborar en **Algun proyecto para desarrollar un videojuego**
 

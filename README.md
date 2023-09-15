@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siriusg2" alt="siriusg2" /></a> </p>
 
-- 🔭 Estoy Trabajando Actualmente en [Space Food](https://spacefood.up.railway.app/)
+- 🔭 Estoy Trabajando Actualmente en [Blipconnection](https://blipconnection.com/)
 
 - 🌱 Actualmente estoy estudiando **Ingles, Typescript y Next.js**
 

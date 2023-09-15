@@ -11,7 +11,7 @@
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://gibsongil.netlify.app/](https://gibsongil.netlify.app/)
 
-- 💬Puedes consultarme acerca de **React, Express, Node, PostgreSQL, MongoDB, HTML, CSS, Javascript, Typescript**
+- 💬Puedes consultarme acerca de **React, Express, Node, PostgreSQL, MongoDB, HTML, CSS, Javascript, Typescript, Python, Vue, Docker**
 
 - 📫 Puedes contactarme mediante este correo **gibsonavilan@gmail.com**
 

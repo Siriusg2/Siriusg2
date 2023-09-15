@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy estudiando **Ingles, Typescript y Next.js**
 
-- 👯 Me gustaria colaborar en **Algun proyecto de gestion empresarial**
+- 👯 Me gustaria colaborar en **Algun proyecto para desarrollar un videojuego**
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://gibsongil.netlify.app/](https://gibsongil.netlify.app/)
 

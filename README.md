@@ -9,7 +9,7 @@
 
 - 👯 Me gustaria colaborar en **Algun proyecto para desarrollar un videojuego**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [https://gibsongil.netlify.app/](https://gibsongil.netlify.app/)
+- 👨‍💻 Todos mis proyectos estan disponibles en [https://gibsongil.site/](https://gibsongil.site)
 
 - 💬Puedes consultarme acerca de **React, Express, Node, PostgreSQL, MongoDB, HTML, CSS, Javascript, Typescript, Python, Vue, Docker**
 

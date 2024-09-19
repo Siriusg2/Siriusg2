@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siriusg2" alt="siriusg2" /></a> </p>
 
-- 🔭 Estoy Trabajando Actualmente en [Blipconnection](https://blipconnection.com/)
+- 🔭 I'm working at [Blipconnection](https://blipconnection.com/)
 
-- 🌱 Actualmente estoy estudiando **Ingles, AWS y Tree js**
+- 🌱 Currently i'm studiying **Java, C#, and Bash scripting**
 
-- 👯 Me gustaria colaborar en **Algun proyecto para desarrollar un videojuego**
+- 👯 I like to work **developing some kind of videogame**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [https://gibsongil.site/](https://gibsongil.site)
+- 👨‍💻 All my projects are available on [https://gibsongil.site/](https://gibsongil.site)
 
-- 💬Puedes consultarme acerca de **React, Express, Node, PostgreSQL, MongoDB, HTML, CSS, Javascript, Typescript, Python, Vue, Docker**
+- 💬 You can ask to me about **React, Express, Node, PostgreSQL, MongoDB, HTML, CSS, Javascript, Typescript, Python, Vue, Docker**
 
-- 📫 Puedes contactarme mediante este correo **gibsonavilan@gmail.com**
+- 📫 You can contact me througt this email **gibsonavilan@gmail.com**
 
 - 📄 Know about my experiences [https://gibsongil.netlify.app/assets/Profile.pdf](https://gibsongil.netlify.app/assets/Profile.pdf)
 

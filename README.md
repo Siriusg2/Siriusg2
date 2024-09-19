@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Gibson Gil</h1>
-<h3 align="center">I'm a Full Stack oriented to desing and architecture of data bases and servers</h3>
+<h3 align="center">I'm a Full Stack Developer oriented to desing and architecture of data bases and servers</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siriusg2" alt="siriusg2" /></a> </p>
 

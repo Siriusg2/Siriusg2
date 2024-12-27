@@ -15,7 +15,7 @@
 
 - 📫 You can contact me througt this email **gibsonavilan@gmail.com**
 
-- 📄 Know about my experiences [https://gibsongil.netlify.app/assets/Profile.pdf](https://gibsongil.netlify.app/assets/Profile.pdf)
+- 📄 Know about my experiences [https://gibsongil.site](https://gibsongil.netlify.app/assets/Profile.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
